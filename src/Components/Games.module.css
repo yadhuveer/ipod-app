@@ -1,0 +1,29 @@
+.outerDiv{
+    width: 100%;
+    height: 60%;
+    background-color: white;
+    border: solid 0.2rem black;
+    padding: 0;
+    margin: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+    align-items: center;
+
+}
+
+
+.colorIcon{
+    color: red;
+    width: 60%;
+    text-align: center;
+    height: 30%;
+}
+
+.icon{
+    font-size: 45px
+}
+

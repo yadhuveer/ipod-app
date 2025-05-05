@@ -1,0 +1,9 @@
+.outerDiv{
+    width: 100%;
+    height: 60%;
+    background-image: url("../assets/song.webp");
+    border: solid 0.2rem black;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
