@@ -10,5 +10,5 @@ A React-based iPod music player app that mimics the classic iPod interface with 
 
 ## Live Demo
 
-Check out the live app here: ipod-app-six.vercel.app
+Check out the live app here: [ipod-app-six.vercel.app](ipod-app-six.vercel.app)
 
